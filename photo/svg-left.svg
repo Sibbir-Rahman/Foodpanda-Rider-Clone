@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="840px" height="840px" viewBox="0 0 840 840" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>8CCD7908-9039-4BEA-89F3-E6159F02A2F1@1,5x</title>
+    <defs>
+        <polygon id="path-1" points="0 -9.54576724e-14 840 -9.54576724e-14 840 840 0 840"></polygon>
+    </defs>
+    <g id="Landing-Page" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Landing-Page---Pictures" transform="translate(609.000000, -4646.000000)">
+            <g id="Shapes" transform="translate(-733.000000, -110.000000)">
+                <g id="Bottom-left" transform="translate(124.000000, 4756.000000)">
+                    <g id="Group-3" transform="translate(0.000000, -0.000000)">
+                        <mask id="mask-2" fill="white">
+                            <use xlink:href="#path-1"></use>
+                        </mask>
+                        <g id="Clip-2"></g>
+                        <path d="M318.677754,798.031 L41.9690955,521.321998 C-13.9896985,465.36322 -13.9896985,374.636445 41.9690955,318.677666 L318.677754,41.9690839 C374.636548,-13.9896946 465.363767,-13.9896946 521.322561,41.9690839 L798.031219,318.677666 C853.989594,374.636445 853.989594,465.36322 798.031219,521.321998 L521.322561,798.031 C465.363767,853.989779 374.636548,853.989779 318.677754,798.031" id="Fill-1" fill="#F099C1" mask="url(#mask-2)"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
