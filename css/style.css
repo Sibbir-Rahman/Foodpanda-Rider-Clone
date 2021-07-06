@@ -1,0 +1,267 @@
+@font-face {
+    font-family:solaimanlipi;
+    src: url(../font/SolaimanLipi.woff);
+}
+
+*{margin: 0; padding: 0; box-sizing: border-box;}
+
+body{
+    font-family: solaimanlipi;
+}
+
+img{max-width: 100%;}
+
+h1 {
+    font-weight: 400;
+    color: black;
+    font-size: 30px;
+    padding: 15px 0px;
+}
+
+p {
+    font-size: 20px;
+    font-weight: 600;
+}
+
+.container {
+    width: 95%;
+    margin: 0 auto;
+}
+
+img.right {
+    position: absolute;
+    right: -128px;
+    top: -72px;
+    z-index: -1;
+    width: 270px;
+}
+
+img.left {
+    position: absolute;
+    right: auto;
+    z-index: -1;
+    top: 1330px;
+    left: -126px;
+    width: 270px;
+}
+
+img.right-center {
+    position: absolute;
+    right: -128px;
+    top: 1812px;
+    z-index: -1;
+    width: 270px;
+}
+
+img.bottom-left {
+    position: absolute;
+    left: -140px;
+    top: 3166px;
+    z-index: -1;
+    width: 270px;
+}
+/* header section styel start here................. */
+
+.header-wraper {
+    overflow: hidden;
+    padding: 35px 30px;
+}
+
+.logo {
+    float: left;
+    width: 130px;
+}
+
+.language {
+    float: right;
+}
+
+button.lang {
+    padding: 10px;
+    background: none;
+    border-radius: 5px;
+}
+
+button.lang:hover {
+    cursor: pointer;
+}
+
+/* header section styel End here................. */
+/* From section styel Start here................. */
+
+.from-wraper {
+    overflow: hidden;
+    padding: 10px 32px;
+}
+
+.join {
+    float: left;
+    width: 45%;
+}
+
+.join-img img {
+    border-radius: 20px;
+    margin-top: 50px;
+}
+
+.from {
+    width: 45%;
+    float: right;
+    background: #D60265;
+    border-radius: 10px;
+    padding: 15px 50px;
+    padding-bottom: 205px;
+}
+
+.from h1 {
+    color: white;
+}
+
+select {
+    width: 100%;
+    padding: 10px;
+    border-radius: 5px;
+    margin: 20px 0px;
+    color: #3c3a3a;
+}
+
+button.submit {
+    width: 100%;
+    padding: 10px;
+    border-radius: 5px;
+    margin: 20px 0px;
+    border: none;
+    color: #3c3a3a;
+    font-size: 18px;
+}
+
+/* From section styel End here................. */
+/* Advantage section styel Start here................. */
+
+.advantage-item {
+    padding: 0px 32px;
+    margin-top: 100px;
+    overflow: hidden;
+}
+
+.adventage-text {
+    float: left;
+    width: 45%;
+}
+
+.adventage-img {
+    width: 45%;
+    float: right;
+}
+
+.adventage-img-two {
+    float: left;
+}
+
+.adventage-text-two {
+    float: right;
+}
+
+.extra-adventage {
+    padding: 0px 32px;
+    margin-bottom: 150px;
+}
+
+.extra-adventage h1 {
+    text-align: center;
+    padding: 60px 0px;
+}
+
+.extra-advent-items {
+    overflow: hidden;
+}
+
+.adventage-img img {
+    border-radius: 20px;
+}
+
+.extra-item {
+    width: 30%;
+    float: left;
+    margin-right: 41px;
+}
+
+.extra-item-img {
+    width: 80px;
+    margin: 0 auto;
+}
+
+.extra-item-text {
+    width: 100%;
+    text-align: center;
+}
+
+.extra-item:last-child {
+    margin-right: 0px;
+}
+
+/* Advantage section styel End here................. */
+/* Requarment section styel Start here................. */
+
+.requarment {
+    background: #D60265;
+    border-radius: 7px;
+    padding: 0px 80px;
+    padding-top: 15px;
+    padding-bottom: 70px;
+}
+
+.requarment h1 {
+    color: white;
+}
+
+.requarment ul li {
+    color: white;
+    font-size: 20px;
+    line-height: 35px;
+}
+
+.requarment ul {
+    padding-left: 25px;
+}
+
+/* Requarment section styel End here................. */
+/* Testimornial section styel Start here................. */
+
+.testimonial {
+    text-align: center;
+    margin-top: 70px;
+    margin-bottom: 150px;
+}
+
+.test-items {
+    overflow: hidden;
+    margin: 0 auto;
+    width: 67%;
+    margin-top: 40px;
+}
+
+.test-item {
+    float: left;
+    width: 269px;
+    margin-right: 100px;
+}
+
+.test-item-img {
+    width: 80px;
+    margin: 0 auto;
+}
+
+.test-item:last-child {
+    margin-right: 0px;
+}
+
+/* Testimornial section styel End here................. */
+/* Star Jurney section styel Start here................. */
+
+.juerney-text {
+    text-align: center;
+    margin-bottom: 120px;
+}
+
+/* Star Jurney section styel End here................. */
